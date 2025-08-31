@@ -164,6 +164,8 @@ print("Merged CSV file created as 'merged_data.csv'")
 1. Open `github_dashboard.pbix` in Power BI Desktop
 2. Refresh data connection to `merged_data.csv`
 3. Explore interactive visualizations and insights
+   <img width="1325" height="749" alt="image" src="https://github.com/user-attachments/assets/78d646d2-ccce-46df-ad0c-254598644233" />
+
 
 ## 📊 Key Functions
 
